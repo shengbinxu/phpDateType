@@ -11,7 +11,10 @@
     "php": ">=5.1"
   },
   "version" : "1.0.0-dev",
-  "keywords" : "中国加班工资计算、工作日、周末、法定节假日、调休日",
+  "keywords" : [
+    "中国加班工资计算",
+    "工作日、周末、法定节假日、调休日"
+  ],
   "autoload": {
     "psr-4": {
       "PhpDataType\\": "src/PhpDateType"
