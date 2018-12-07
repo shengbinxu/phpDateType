@@ -1,5 +1,5 @@
 {
-  "name": "shengbinxu/phpDateType",
+  "name": "shengbinxu/php-date-type",
   "description": "判断某一天的类型：工作日、周末、法定节假日、调休日",
   "authors": [
     {
